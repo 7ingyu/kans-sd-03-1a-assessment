@@ -102,29 +102,17 @@ Assessment Grading Criteria
 
 Points
 
-1\. The text for the pet name and adoption date is filled out.
+1\. The text for the pet name and adoption date is filled out. (1 pt)
 
-1 pt
+2\. The image displays properly. (1 pt)
 
-2\. The image displays properly.
+3\. The biography contains at least two sentences about the pet, and there are at least three list items in an ordered list at the bottom of the page. (1 pt)
 
-1 pt
+4\. The title is a different color font than the default. (1 pt)
 
-3\. The biography contains at least two sentences about the pet, and there are at least three list items in an ordered list at the bottom of the page.
+5\. The Shrink/Grow button changes the size of the pet image. (1 pt)
 
-1 pt
-
-4\. The title is a different color font than the default.
-
-1 pt
-
-5\. The Shrink/Grow button changes the size of the pet image. (Clickable buttons produce an action when clicked.)
-
-1 pt
-
-Result:
-
-Pass
+-------------------------
 
 If you are finished and ready for a challenge, try the extra ideas below:
 
